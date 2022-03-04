@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java & SQL.
-- 🔭 I’m currently working on a new Game project using java.
+- 🔭 Check Javyrinth.jar release and play our first Student Game project
+- 🔭 Python projects are on the way...
 
 <!--
 **ChristinaKatoufa/ChristinaKatoufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
