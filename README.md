@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java & SQL.
-- 🔭 Check Javyrinth.jar release and play our first Student Game project
+- 🌱 I’m currently learning Java, SQL, Python
+- 🔭 Check Javyrinth.jar release and play our first Student Game project (java,sql)
 - 🔭 Python projects are on the way...
 
 <!--
